@@ -1,7 +1,2 @@
 # small_repo
-This is a small edit
-
-Here's another touch
-
-
-Touched
+This is a small repo. 
